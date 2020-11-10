@@ -30,7 +30,7 @@ This is the modified Cartographer from [original](https://google-cartographer-ro
 
 4. Cartographer uses the abseil-cpp library that needs to be manually installed using this script
    ```
-   src/cartographer/scripts/install_abseil.sh
+   src/cartographer-master/scripts/install_abseil.sh
    ```
     Due to conflicting versions you might need to uninstall the ROS abseil-cpp using
     ```
